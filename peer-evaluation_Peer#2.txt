@@ -1,0 +1,46 @@
+Name:Thomas McHugh
+Date: 4/30/2020
+
+Project: 
+Group's repository: 
+https://github.com/yh17/Final-Project
+
+
+What is something you learned by reviewing this group's project?
+Sprite design
+ 
+
+In what ways does this game reflect the theme?
+Shooter fighting off hordes of a virus
+ 
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+More enemies with varied sprites
+ 
+
+What suggestions would you have for this group to improve the game?
+Have less enemies spawn so that the screen is less overwhelming.
+
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+No confusion in the script
+ 
+
+Is it clear that every group member participated?
+Yes
+ 
+
+Does the repository contain an appropriate LICENSE?
+Only one person is listed
+ 
+
+What is something the group could add to the README.md to make it more descriptive?
+Any details about the game to make it so that a player knows what is going on
+
+Pay a compliment to the group based on the quality of the game.
+The sprites and game itself are very clean and well designed
+
+
+How many of your points would you allocate to this project?
+2.5
+
